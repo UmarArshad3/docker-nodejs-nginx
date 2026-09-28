@@ -4,3 +4,8 @@
 *.log
 node_modules/
 *.pem
+
+*.key
+*.crt
+
+nginx/certs/
