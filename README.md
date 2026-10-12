@@ -62,6 +62,27 @@ docker-nodejs-nginx/
 ├── .gitignore
 └── README.md
 ```
+## Screenshots
+
+The following screenshots demonstrate the Docker Compose services, container networking, application access, and troubleshooting workflow.
+
+### Container Status
+
+![Docker Compose container status](docs/screenshots/container-status.png)
+
+### Docker Network Configuration
+
+![Docker network inspection](docs/screenshots/docker-network.png)
+
+### Application Access
+
+![Node.js application accessed through localhost](docs/screenshots/http-access.png)
+
+### Troubleshooting
+
+![Docker application troubleshooting](docs/screenshots/docker-setup.png)
+
+
 
 ## Docker Concepts Demonstrated
 
