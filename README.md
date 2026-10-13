@@ -4,6 +4,10 @@ A containerized Node.js application deployed behind an Nginx reverse proxy using
 
 This project demonstrates Docker image creation, container networking, service-to-service communication, health checks, reverse proxying, port exposure, persistent volumes, and container troubleshooting.
 
+## Architecture Diagram
+
+![Docker Node.js Nginx Architecture](docs/screenshots/docker-nodejs-nginx-architecture.png)
+
 ## Architecture
 
 ```text
