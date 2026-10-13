@@ -6,7 +6,7 @@ This project demonstrates Docker image creation, container networking, service-t
 
 ## Architecture Diagram
 
-![Docker Node.js Nginx Architecture](docs/screenshots/docker-nodejs-nginx-architecture.png)
+![Docker Node.js Nginx Architecture](docs/screenshots/docker-nodejs-nginx-architecture.drawio.png)
 
 ## Architecture
 
